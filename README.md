@@ -1,4 +1,4 @@
-# otto
+# Prueba_otto
 
 ## Project setup
 ```
@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### App
+https://ottoklaus-c549f.web.app
